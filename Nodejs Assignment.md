@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.2b4a03a1-eb9a-488b-b0fa-dd3b2d0a3eda.001.png)
+![](Aspose.Words.2b4a03a1-eb9a-488b-b0fa-dd3b2d0a3eda.001.png)
 
 ` `**Nodejs Assignment**
 
